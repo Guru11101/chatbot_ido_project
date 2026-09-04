@@ -1,6 +1,7 @@
-langchain 
-langchain-groq 
-python-dotenv 
-langchain-core 
-langchain-community 
 streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-community
+google-search-results
